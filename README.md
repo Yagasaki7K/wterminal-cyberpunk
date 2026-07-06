@@ -1,6 +1,6 @@
-# Windows Terminal Cyberpunk Theme
-
 ![](https://preview.redd.it/windows-terminal-cyberpunk-2077-theme-v0-oq17qxyd96161.png?width=1920&format=png&auto=webp&s=0c4c613bac56a80340b4010fc306bcf5fb68e8e8)
+
+# Windows Terminal Cyberpunk Theme
 
 A Windows Terminal Theme based in Cyberpunk 2077 (Samurai)
 
